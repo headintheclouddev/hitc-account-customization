@@ -13,7 +13,7 @@
       "N": ["node_modules/@hitc/netsuite-types/N"],
       "N/*": ["node_modules/@hitc/netsuite-types/N/*"]
     },
-    "outDir": "./src/FileCabinet/SuiteScripts/hitc_apple_mapkit_test"
+    "outDir": "./src/FileCabinet/SuiteScripts/hitc"
   },
   "exclude": ["node_modules"],
   "include": ["./src/TypeScripts/"]
