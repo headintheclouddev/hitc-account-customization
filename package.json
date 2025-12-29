@@ -1,0 +1,12 @@
+{
+  "name": "hitc-account-customization",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@hitc/netsuite-types": "^2025.2.10"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/headintheclouddev/hitc-account-customization"
+  }
+}
