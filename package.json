@@ -2,7 +2,7 @@
   "name": "hitc-account-customization",
   "version": "1.0.0",
   "devDependencies": {
-    "@hitc/netsuite-types": "^2025.2.10"
+    "@hitc/netsuite-types": "^2026.2.3"
   },
   "private": true,
   "repository": {
